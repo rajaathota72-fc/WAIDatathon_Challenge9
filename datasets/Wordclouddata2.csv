@@ -1,0 +1,256 @@
+,word,freq
+1,Data Administrator,1
+2,Call Center,1
+3,Corporate Websites,1
+4,Business Consulting,1
+5,Product Development,1
+6,Ajax,17
+7,Asp.net Ajax,1
+8,Corporate,20
+9,Content Writing,26
+10,Annual Reports,1
+11,MySQL,3
+12,Mobile Development,1
+13,Branding,2
+14,Java,3
+15,CakePHP,1
+16,Cricket Writing,1
+17,Adobe Freehand MX,1
+18,AngularJS,4
+19,PHP,34
+20,CSS Javascript,1
+21,Templates,1
+22,Apollo GraphQL,1
+23,Creative Design,3
+24,Basic,1
+25,Interior Design,1
+26,Magento,20
+27,Content Management System (CMS),1
+28,Analysis,2
+29,Quality Assurance (QA),1
+30,Data Cleaning,1
+31,Analytics,21
+32,HTML,47
+33,Background Removal,1
+34,Developer,24
+35,Adobe Photoshop,12
+36,Drupal,25
+37,Front End Developer,2
+38,Pay Per Click,1
+39,Link Building,20
+40,Adobe InDesign,1
+41,Clean Programming,21
+42,Home Design,1
+43,Amazon AWS,1
+44,WordPress Design,2
+45,Information Technology,1
+46,Engineering,20
+47,Custom Cms,3
+48,Database Design,1
+49,CS-Cart,1
+50,SEO,24
+51,Logo Design,2
+52,Cms,1
+53,Health,1
+54,Blogger,1
+55,Internet Marketing,2
+56,Community Management,20
+57,WordPress,10
+58,Theme Customization,1
+59,2D Graphics,1
+60,Google AdSense,1
+61,Financial Planning,1
+62,Personal,1
+63,3D Graphics,1
+64,Data Management,1
+65,Ad Posting,1
+66,Blackberry,1
+67,Banner Design,3
+68,BigCommerce,1
+69,Web Design,6
+70,Accounts Finalization,1
+71,Bootsrap,1
+72,WordPress Themes,1
+73,Custom ERP,1
+74,Knockoutjs,1
+75,API Development,2
+76,Article Writing,1
+77,Qa,1
+78,E-Commerce Website Development,1
+79,Database Driven Web Applications,1
+80,Web Hosting,1
+81,CodeIgniter,29
+82,Divi Builder,1
+83,Laravel,23
+84,3d,2
+85,Lead Generation,1
+86,Graphics,2
+87,E Commerce,7
+88,Business to Business (B2B) Marketing,2
+89,Corel Draw,1
+90,Architect,1
+91,jQuery,4
+92,Angular,1
+93,Blogging,1
+94,Alternative Dispute Resolution,1
+95,Microsoft Word,2
+96,Back End Development,5
+97,Personal Assistant,1
+98,Choreography,1
+99,Creative Writing,1
+100,ASP,11
+101,Website,1
+102,C++,1
+103,Background,1
+104,Programming,4
+105,Consultant,1
+106,Adobe Dreamweaver,1
+107,Wix,1
+108,WordPress Business Website,1
+109,Data Entry,3
+110,Marketing,27
+111,Ecommerce,29
+112,HTTPS,1
+113,Mobile Web Design,1
+114,Blog Development,1
+115,Android Development,4
+116,Open Source,1
+117,Website Development,6
+118,Front End Development,4
+119,Database Development,1
+120,Api Integration,2
+121,Form Web Design,1
+122,3D Animation,2
+123,Search Engine Optimization (SEO),1
+124,Customer Service,2
+125,Android Game Development,1
+126,Software Applications,1
+127,Mobile,1
+128,App Development,10
+129,Framework Design,1
+130,ASP.NET,9
+131,Act,1
+132,CMS Development,1
+133,Front-end Development,1
+134,Contact Management,1
+135,DHTML,1
+136,Talent Management,1
+137,MongoDB,1
+138,Software Design,1
+139,Adobe Fireworks,1
+140,Angular 2,1
+141,Ms Office,1
+142,Wordpress Blog,1
+143,Full Stack,1
+144,Landing Page Design,4
+145,Joomla,3
+146,Animation,2
+147,Shopping Carts,1
+148,Data Mining,1
+149,Mobile Application Design,1
+150,Accounting,2
+151,Web 2.0,1
+152,Cover Art,1
+153,Bug Fixes,2
+154,Flash,1
+155,Node.js,1
+156,3D Art,1
+157,Custom Facebook Pages,1
+158,Mobile App Development,1
+159,Article Rewriting,1
+160,Adobe Framemaker,1
+161,Management,5
+162,Business Card Design,1
+163,Theme Design,2
+164,Android,3
+165,Ideation,1
+166,iOS App Development,1
+167,C,23
+168,CMS (Content Management System),24
+169,Responsive Web Design,2
+170,2D Animation,1
+171,Real Estate,1
+172,Fashion Design,1
+173,Email,2
+174,WordPress Development,3
+175,Article Publisher,1
+176,Express.js,1
+177,Bugs,1
+178,Team Management,1
+179,Paypal API,1
+180,Administrative Assistant,3
+181,Plugins,1
+182,Web Graphics,1
+183,Article Marketing,20
+184,Debugging,1
+185,Application Design,22
+186,Bootstrap,63
+187,Adobe Illustrator,4
+188,Banner,3
+189,Apache Struts,1
+190,Codigniter,1
+191,Facebook Marketing,1
+192,cnm,6
+193,HTTP,2
+194,Graphic Design,21
+195,Contact Form,1
+196,Google Maps,2
+197,Digital,4
+198,Financial Analysis,1
+199,.NET,9
+200,Design,146
+201,Consulting,2
+202,Functional Design,1
+203,Admin Support,1
+204,Buildium,1
+205,Content Management,5
+206,3d Models,1
+207,Help Desk,2
+208,C#,4
+209,Google,1
+210,Asp.net Mvc,2
+211,API,4
+212,Accounting Standards,1
+213,Smarty,1
+214,iPad,1
+215,Database Management,1
+216,C Programming,1
+217,CRM,1
+218,Creative,5
+219,JavaScript,33
+220,Payment Gateway Integration,1
+221,Backend,1
+222,E-Commerce,6
+223,Architecture,1
+224,CSS3,43
+225,Shopify Developer,1
+226,HTML5,29
+227,OpenCart,3
+228,Angular.js,1
+229,CSS,80
+230,Computer Graphics Design,1
+231,Blog Writing,6
+232,Custom Website Design,2
+233,Software Development,8
+234,Claims Management,1
+235,PSD to HTML,1
+236,Construction,1
+237,Background Change,1
+238,Billing,1
+239,Blogs,22
+240,Website Design,1
+241,Business Web Design,3
+242,E Commerce Website Development,1
+243,Commercial Business Development,1
+244,Dynamic Websites,2
+245,Brochure Design,2
+246,CSS Sprites,1
+247,CMS Web Design,1
+248,Application Development,3
+249,3d Rigging,1
+250,Adobe After Effects,1
+251,Facebook,20
+252,Business Website,2
+253,Banner Ads,3
+254,Client Requirements,1
+255,Adobe,1
