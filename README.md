@@ -25,6 +25,7 @@ EDA report: https://datastudio.google.com/u/0/reporting/18ec13eb-b9b1-4a97-bcb5-
 Working prototype: https://www.youtube.com/watch?v=raj1uOE-9aQ&feature=youtu.be
 
 5. waiconnect.py has code related to matchmaking for skills between freelancers and entrepreneurs
+
 Working prototype: https://youtu.be/h4HYRGAHTQ4
 
 
