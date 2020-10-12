@@ -11,7 +11,8 @@ Frontend website:
 Implementation: MVP
 
 I. Data collection and cleaning:
-link : 
+
+link : https://youtu.be/XLfWHO4vmbw 
 1. Dataset files are found at datasets folder 
 2. The data is based on the freelancer information from www.guru.com and scraping is done using Instant Data Scraper chrome extension and cleaning is done using R
 
